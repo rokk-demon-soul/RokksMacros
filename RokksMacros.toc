@@ -1,0 +1,13 @@
+## Interface: 100205
+## Title: RokksMacros
+
+src\Locales.lua
+
+src\MacroUtilities.lua
+src\SlashCommands.lua
+src\Events.lua
+
+src\Macros\Macros.lua
+src\Macros\Templates.lua
+
+src\Init.lua
